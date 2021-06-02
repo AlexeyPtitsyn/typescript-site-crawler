@@ -1,6 +1,6 @@
 # Website crawler
 
-Simple site crawler. Build with Typescript.
+Simple site crawler. Built with Typescript.
 
 ## Setup
 
